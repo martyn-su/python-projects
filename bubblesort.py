@@ -11,7 +11,7 @@ def bubblesort(elements):
             return
 
 
-elements = [random.randint(1,100) for ns in range(10)]
+elements = [random.randint(1,100) for steps in range(10)]
 
 print(elements)
 bubblesort(elements)
