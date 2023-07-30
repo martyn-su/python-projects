@@ -17,3 +17,14 @@ print(elements)
 bubblesort(elements)
 print("The sorted array is ")
 print(elements)
+
+#explain above code with an example
+
+#[2,5,7,1,3,9,8,6,4]
+#how would i test the code?
+
+
+
+
+
+
